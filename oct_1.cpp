@@ -1,3 +1,4 @@
+//update va tinh tong doan [l,r] trong mang 1 chieu
 #include<bits/stdc++.h>
 using namespace std;
 using ll=long long;
